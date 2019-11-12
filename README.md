@@ -1,10 +1,10 @@
 # Atomic-Design
 ### Project.THP by Thibault Mariolle
 
-Aller sur: 
+1. Télecharger le dossier. <br>
+2. Aller sur :
 - `index.html` <br>
-
-Puis suivre les liens en vert pour chaque atomes/molécules/organismes. <br>
+3. Puis suivre les liens en vert pour chaque atomes/molécules/organismes. <br>
 Have fun !
 
 ### Made in Montpellier
